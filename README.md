@@ -11,7 +11,7 @@
 This project is done in my free time in order to learn Laravel framework. The project was created from scratch using Laravel 5.6. It allows Admin to manage news that have specific category. Custom bootstrap theme was used which was downloaded from [AdminLTE](http://adminlte.io/).
 
 ## Special Thanks
-I would like to thank **[Kodiary Technologies](https://laravel.com/docs/routing)** for helping me understanding Laravel framework by watching his tutorials in Youtube.
+I would like to thank **[Kodiary Technologies](https://www.youtube.com/channel/UC2ZURwsMiVaBVu8fj4ImOnQ)** for helping me understanding Laravel framework by watching his tutorials in Youtube.
 
 
 ## About Laravel
